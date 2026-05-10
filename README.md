@@ -8,7 +8,6 @@ The system analyzes customer purchasing behavior and generates real-time product
 
 The dashboard dynamically updates recommendations using association rules generated through the Apriori Algorithm.
 
----
 
 # Problem Statement
 
@@ -22,7 +21,6 @@ Retail businesses need intelligent recommendation systems to improve:
 
 This project identifies products frequently purchased together and recommends related products in real time.
 
----
 
 # Project Objectives
 
@@ -33,7 +31,7 @@ This project identifies products frequently purchased together and recommends re
 - Provide dynamic product recommendations
 - Visualize customer buying behavior
 
----
+
 
 # Technologies Used
 
@@ -52,7 +50,6 @@ This project identifies products frequently purchased together and recommends re
 - Visual Studio Code
 - GitHub
 
----
 
 # Machine Learning & Data Mining Concepts
 
@@ -68,7 +65,6 @@ Key metrics used:
 - Confidence
 - Lift
 
----
 
 # Features of the Dashboard
 
@@ -82,7 +78,7 @@ The Streamlit dashboard includes:
 - Interactive recommendation updates
 - Business insights dashboard
 
----
+
 
 # How the Recommendation System Works
 
@@ -94,7 +90,7 @@ The Streamlit dashboard includes:
    - Matching product patterns
 4. Recommended products are displayed dynamically in real time.
 
----
+
 
 # Example Recommendations
 
@@ -105,7 +101,7 @@ The Streamlit dashboard includes:
 | Phone            | Charger, Earphones |
 | Burger           | Fries, Soda        |
 
----
+
 
 # Dataset
 
@@ -119,7 +115,7 @@ The project uses a simulated retail transaction dataset containing:
 
 The dataset was designed to simulate realistic customer purchasing patterns for recommendation generation.
 
----
+
 
 # Project Structure
 
